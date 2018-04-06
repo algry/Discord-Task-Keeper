@@ -1,0 +1,8 @@
+{
+  "name": "Reminder Bot",
+  "version": "1.0",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.3.2"
+  }
+}
